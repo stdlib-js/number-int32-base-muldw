@@ -188,8 +188,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/number-int32-base-muldw.svg
 [npm-url]: https://npmjs.org/package/@stdlib/number-int32-base-muldw
 
-[test-image]: https://github.com/stdlib-js/number-int32-base-muldw/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/number-int32-base-muldw/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/number-int32-base-muldw/actions/workflows/test.yml/badge.svg?branch=v0.1.1
+[test-url]: https://github.com/stdlib-js/number-int32-base-muldw/actions/workflows/test.yml?query=branch:v0.1.1
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/number-int32-base-muldw/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/number-int32-base-muldw?branch=main
