@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-15)
+## Unreleased (2026-11-06)
 
 <section class="breaking-changes">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`8f624de`](https://github.com/stdlib-js/stdlib/commit/8f624de7eaf721da6bdb42adc299c4876a856c0f) - **style:** add missing whitespace [(#16522)](https://github.com/stdlib-js/stdlib/pull/16522) _(by Philipp Burckhardt)_
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`8a85314`](https://github.com/stdlib-js/stdlib/commit/8a853143f40edf35363834dddec4eeeb0d883a68) - **refactor:** remove `NaN` checks and optimize implementation for better performance [(#11699)](https://github.com/stdlib-js/stdlib/pull/11699) _(by Abdul Kaium, Athan Reines)_
 -   [`fe2eec4`](https://github.com/stdlib-js/stdlib/commit/fe2eec4417d858b83b208929a4bbac3d9d236fa4) - **bench:** refactor to use string interpolation in `number` [(#11603)](https://github.com/stdlib-js/stdlib/pull/11603) _(by Karan Anand)_
 
@@ -35,11 +37,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
